@@ -1,0 +1,19 @@
+{
+    "ref": "refs/heads/master",
+    "head": "a01a5013d9fa223a2e1b8ec1c6c6c2a47a6b808a",
+    "size": 1,
+    "before": "fc4b3dea2950e4f6081f1ed2380f82c9efd672e0",
+    "commits": [{
+            "sha": "a01a5013d9fa223a2e1b8ec1c6c6c2a47a6b808a",
+            "url": "https://api.github.com/repos/postgres/postgres/commits/a01a5013d9fa223a2e1b8ec1c6c6c2a47a6b808a",
+            "author": {
+                "name": "Michael Meskes",
+                "email": "194ab8dd455e11882084133e0b9c41a286f6e7bc@postgresql.org"
+            },
+            "message": "Added missing "EXEC SQL" to statement.",
+            "distinct": True
+        }
+    ],
+    "push_id": 1432300981,
+    "distinct_size": 1
+}
